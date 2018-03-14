@@ -1,0 +1,23 @@
+
+            - Onion or DDD architecture
+            - Modular programming
+            - Event Base programming 
+            - ASP.NET Core 2+
+            - SPA + API & MVC App | check the RazorPages and other posibilities
+            - Angular (2+)
+            - EF code first Core 2+
+            - SOLID
+            - Log (Serilog) + Dipendency Injection (Check ASpCore vs Others) + mapper (Automapper)
+            - Check other Frameworks -> Performance Issue other new technologies
+            - UI Custom CSS (Custom media query) Vs Framework CSS | awesome fonts or others
+            - Generic | Engine Base | Extension Base
+            - Algorithms
+            - C# 7+
+            - New in Core or EF 
+            - SQL Server Skills -> indexes, splits
+            - T4 Skills if possible
+            - IIS skills if possible
+            - Unit Test
+            - Documents: Manuals, Install Note, Release notes
+            - Project management skills if possible => by documentation of requirements + agile + sprints + ...
+            - Versioning
